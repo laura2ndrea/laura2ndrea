@@ -11,6 +11,7 @@ I'm a backend programming student enjoying my journey in software development. I
 ![](https://img.icons8.com/color/100/000000/javascript--v1.png)
 ![](https://img.icons8.com/color/100/000000/mysql-logo.png)
 ![](https://img.icons8.com/?size=100&id=40669&format=png&color=000000)
+![](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)
 
 
 ### Soft skills
