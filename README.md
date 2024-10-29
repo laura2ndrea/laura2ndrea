@@ -16,7 +16,7 @@ I'm studying at CampusLands to become a backend developer while also pursuing a 
 ## Projects
 Feel free to check out my repositories to see what I'm working on! I'm always open to collaboration and feedback.
 
-## Contact me 📫
-You can reach me via [LinkedIn](https://www.linkedin.com/in/laura-rodr%C3%ADguez-51aa92135/) or [Email](laura2ndrea12@gmail.com). Let's connect!
+## Contact Me 📫
+You can reach me via email at laura2ndrea12@gmail.com, or connect with me on [LinkedIn](https://www.linkedin.com/in/laura-rodr%C3%ADguez-51aa92135/). Let's connect!
 
 
