@@ -3,15 +3,28 @@
 I'm a backend programming student enjoying my journey in software development. I look forward to sharing my projects and collaborating with others.
 
 ## Skills 🚀
-- **Programming languages:** Python, JavaScript and C++
-- **Databases:** MySQL
-- **Other Skills:** Problem-solving, teamwork, and dedication to delivering quality work in every project.
+
+### Technical skills
+
+![](https://img.icons8.com/color/100/000000/html-5--v1.png)
+![](https://img.icons8.com/color/100/000000/css3.png)
+![](https://img.icons8.com/color/100/000000/javascript--v1.png)
+![](https://img.icons8.com/color/100/000000/mysql-logo.png)
+![](https://img.icons8.com/?size=100&id=40669&format=png&color=000000)
+
+
+### Soft skills
+- Problem - solving 🤔
+- Teamwork 👥
+- Dedication to delivering quality work in every project 🌟
 
 ## Learning 📚
 I'm currently expanding my knowledge by learning:
-- **Java**, **Spring Boot** and **PostgreSQL**
 
-I'm studying at CampusLands to become a backend developer while also pursuing a degree in Systems Engineering at Universidad Industrial de Santander (UIS). I'm looking forward to applying what I learn in real-world projects and continually improving my skills.
+![](https://img.icons8.com/color/100/000000/java-coffee-cup-logo--v1.png)
+![](https://img.icons8.com/?size=100&id=90519&format=png&color=000000)
+![](https://img.icons8.com/?size=100&id=38561&format=png&color=000000)
+
 
 ## Projects
 Feel free to check out my repositories to see what I'm working on! I'm always open to collaboration and feedback.
